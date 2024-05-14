@@ -12,6 +12,21 @@
 - 📫 How to reach me **harshit.varshney8057@gmail.com**
 
 - ⚡ Fun fact **I draw when I feel bored.**
+  
+<h1 align="center">Profile Summary</h1>
+
+**Harshit Varshney** is a skilled **Data Analyst** with expertise in **SQL**, **Python**, and **Data Visualization**. He has a strong desire to apply his data analysis skills in a dynamic environment and contribute to data-driven decision-making processes. 
+
+In his current role as an **Associate - Junior Data Analyst** at **Infinity Learn By Sri Chaitanya**, Harshit has implemented data analyses, analyzed complex data sets, and developed dashboards using Power BI. His contributions have led to a 25% improvement in academic counseling efficiency, a 15% reduction in student churn, and a 40%+ YOY increase in sales.
+
+Previously, as an **Associate - SME** at the same company, Harshit managed various projects, led a team of content developers, and collaborated with Edu-tubers and the internal marketing team to expand the company's reach. His efforts resulted in over 2 M+ views on Edu-tubers channels and 2 lakh + subscribers on the Don't Memorize channel.
+
+Harshit holds a **Master of Science (M.Sc)** degree in **Mathematics** from **Aligarh Muslim University**. He possesses a range of technical skills including Python, SQL, Data Visualization, and Machine Learning, and has earned several certifications in Data Science and Analytics, Python Programming, and Critical Thinking.
+
+In addition to his professional experience, Harshit has undertaken several projects, including a **Python Project** for student result analysis, an **SQL Project** for music store database analysis, and a **Machine Learning Project** for developing a movies recommender system.
+
+Harshit is a problem solver, deadline-driven, and an effective communicator with strong leadership skills. He is fluent in English, Hindi, and Urdu. He enjoys art and equity and derivative analysis in his free time. He can be contacted at harshit.varshney8057@gmail.com. 
+More about his work can be found on his [LinkedIn](https://www.linkedin.com/in/harsh0699/) and [GitHub](https://github.com/Harshit0699) profiles.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
